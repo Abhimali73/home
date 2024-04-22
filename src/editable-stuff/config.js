@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Abhilash.png"),
   imageSize: 375,
   message:
     "My name is Abhilash. I am passionate about data, visualization and report generation, my proficiency in SQL, Excel, Python, and Power Bl serves as a dynamic toolkit, empowering me to extract and present impactful insights from data sets, ultimately guiding the formulation of strategic and informed business decisions.",
@@ -84,7 +84,7 @@ const leadership = {
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
+      img: require("../editable-stuff/.png"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
@@ -125,8 +125,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Data Analyst opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "abhilashmali123@gmail.com",
 };
 
 const experiences = {
